@@ -1,0 +1,21 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+    
+  .onep {
+    background-color: rgb(237, 125, 125); color: black;
+  }
+  .one {
+    background-color: transparent; color: blue;
+    font-size: 250%;
+   }
+  .twop {
+    background-color:rgb(233, 131, 131) ; color: black;
+   }
+  .two {
+    background-color: rgb(106, 234, 106); color: black;
+    font-weight: bold ; font-size: 125%;
+   }
+   .threep {
+    background-color: rgb(233, 131, 131); color: black;
+   }
+}
